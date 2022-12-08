@@ -8,6 +8,14 @@
 ###  Кратко о себе:
 > Мне интересно все что связанно с IT,почитываю книги Владимира Дронова 
 >а также смотрю видео по Java,пытаюсь что-то кодить).
+
+### Примеры кода
+unction past(h, m, s){
+  var hours = h * 60 * 60 * 1000;
+  var minutes = m * 60 * 1000;
+  var seconds = s * 1000;
+  return hours + minutes + seconds;
+}
 ### Навыки :
 * HTML5,CSS3
 * Основы JavaScript
