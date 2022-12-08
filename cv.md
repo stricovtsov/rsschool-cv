@@ -10,7 +10,7 @@
 >а также смотрю видео по Java,пытаюсь что-то кодить).
 
 ### Примеры кода
-unction past(h, m, s){
+* unction past(h, m, s){
 *  var hours = h * 60 * 60 * 1000;
 * var minutes = m * 60 * 1000;
 *  var seconds = s * 1000;
