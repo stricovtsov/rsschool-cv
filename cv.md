@@ -4,7 +4,7 @@
 ### Контакты:
 * г.Могилев Беларусь
 * телефон : +375447077116 
-* электронная почта :strikovtcov@tut.by
+* электронная почта :strikovtcov@gmail.com
 * Telegramm :@aleksei_mogilev
 
 ###  Кратко о себе:
