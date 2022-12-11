@@ -1,6 +1,8 @@
 # Алексей Стриковцов
+![фото](/Alexsei_Strikovtcov.jpg)
 ## Главный инженер ТС"Высотка-люкс"
 ### Контакты:
+* г.Могилев Беларусь
 * телефон : +375447077116 
 * электронная почта :strikovtcov@tut.by
 * Telegramm :@aleksei_mogilev
@@ -10,7 +12,7 @@
 >а также смотрю видео по Java,пытаюсь что-то кодить).
 
 ### Примеры кода
-* unction past(h, m, s){
+* function past(h, m, s){
 *  var hours = h * 60 * 60 * 1000;
 * var minutes = m * 60 * 1000;
 *  var seconds = s * 1000;
